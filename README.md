@@ -1,2 +1,2 @@
 # renovate-guava-extractversion
-Reproduction case for Renovate
+Minimal Reproduction case for Renovate discussion #...
